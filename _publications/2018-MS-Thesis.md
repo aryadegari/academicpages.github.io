@@ -3,7 +3,7 @@ title: "Author's text integration recognition using character, lexical, syntacti
 collection: publications
 permalink: /publication/2021-Autonomic
 excerpt: 
-date: 2018-10-01
+date: 2018-05-01
 venue: 'Amirkabir University of Technology'
 link: ''
 citation: ''
