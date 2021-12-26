@@ -2,6 +2,13 @@
 
 This is the personal website of Arash Yadegari, which can be visualized at [https://aryadegari.github.io/](https://aryadegari.github.io/).
 
+Changes List:
+
+- Add support for Google Analytics with global site tag (google-gtag) according to [this commit](https://github.com/mmistakes/minimal-mistakes/commit/79d0b75683a4c13787b117e9e612073586fa21be).
+- Change CV page to have a PDF frame and download link like in [https://jayrobwilliams.com/cv/](https://jayrobwilliams.com/cv/).
+- Change Publications page to look like [https://jayrobwilliams.com/publications/](https://jayrobwilliams.com/publications/).
+- Change link and menu hover color to Red (#80120e).
+- Change "Follow" button text to "Contact Me" on Mobile.
 
 
 A Github Pages template for academic websites. This was forked (then detached) by [Stuart Geiger](https://github.com/staeiou) from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/), which is © 2016 Michael Rose and released under the MIT License. See LICENSE.md.
