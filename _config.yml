@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Arash Yadegari"
   avatar           : "profile.jpg"
-  bio              : "Computer Science PhD Candidate at University of Groningen"
+  bio              : "Computer Science PhD Candidate"
   location         : "Groningen, Netherlands"
-  employer         :
+  employer         : "[University of Groningen](https://www.rug.nl/)"
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : # "http://yourfullgooglescholarurl.com"
   email            : a.yadegari.ghahderijani@rug.nl
