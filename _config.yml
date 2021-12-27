@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Arash Yadegari / Personal Web Page"
+title                    : "Arash Yadegari"
 title_separator          : "-"
 name                     : &name "Arash Yadegari"
 description              : &description "Computer Science PhD Candidate at University of Groningen"
