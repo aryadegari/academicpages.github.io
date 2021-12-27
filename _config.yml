@@ -309,3 +309,7 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+
+
+# Search - values: [true, false] - Lunr (default): Only the first 50 words of a post or page’s body content
+search: true
