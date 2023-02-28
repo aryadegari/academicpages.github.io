@@ -1,0 +1,11 @@
+---
+title: "Change Recommendation in Business Processes"
+collection: publications
+permalink: /publication/2023-Change-Recommendation
+excerpt: 
+date: 2022-11-29
+venue: 'International Conference on Service-Oriented Computing (ICSOC) 2022 Workshops'
+link: 'https://doi.org/10.1007/978-3-031-26507-5_29'
+citation: 'A. Yadegari Ghahderijani and D. Karastoyanova, "Change Recommendation in Business Processes," International Conference on Service-Oriented Computing (ICSOC) 2022 Workshops, LNCS 13821, pp. 1–7, 2022, doi: 10.1007/978-3-031-26507-5_29'
+abstract: Process-aware information systems are valuable for automating business tasks leading to cost reduction and efficiency. This research aims to advance the state of the art in process management towards autonomic process performance improvement by contributing control-flow change recommendations for process instances that is supporting automatic change enactment as a response to predicted KPI violations. Towards that goal, the related literature has been investigated in two literature review studies and research gaps have been identified. The proposed generic architecture provides a feedback loop that enables evaluation of the resulting recommendations for future process instances. We also present the current state of the research and future plans.
+---
