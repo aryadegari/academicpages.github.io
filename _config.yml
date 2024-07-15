@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Arash Yadegari"
 title_separator          : "-"
 name                     : &name "Arash Yadegari"
-description              : &description "Computer Science PhD Candidate at University of Groningen"
+description              : &description "Data Engineer (Computer Scientist)"
 url                      : https://aryadegari.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "aryadegari/aryadegari.github.io"
@@ -83,8 +83,8 @@ author:
   name             : "Arash Yadegari"
   avatar           : "profile.jpg"
   bio              : "Computer Science PhD Candidate"
-  location         : "Groningen, Netherlands"
-  employer         : "University of Groningen"
+  location         : "Den Bosch, Netherlands"
+  employer         : "Avans University of Applied Science"
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : # "http://yourfullgooglescholarurl.com"
   email            : a.yadegari.ghahderijani@rug.nl
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "aryadegari"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
