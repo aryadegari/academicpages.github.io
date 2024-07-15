@@ -1,0 +1,11 @@
+---
+title: "Adaptive Process Log Generation and Analysis with Next(Log) and ML.Log"
+collection: publications
+permalink: /publication/2024-Next-ML-Log
+excerpt: 
+date: 2024-03-02
+venue: 'Enterprise Design, Operations, and Computing. EDOC 2023 Workshops'
+link: 'https://doi.org/10.1007/978-3-031-54712-6_21'
+citation: 'Cartwright, D., Sterie, R.A., Yadegari Ghahderijani, A., Karastoyanova, D. (2024). Adaptive Process Log Generation and Analysis with Next(Log) and ML.Log. In: Sales, T.P., de Kinderen, S., Proper, H.A., Pufahl, L., Karastoyanova, D., van Sinderen, M. (eds) Enterprise Design, Operations, and Computing. EDOC 2023 Workshops . EDOC 2023. Lecture Notes in Business Information Processing, vol 498. Springer, Cham. https://doi.org/10.1007/978-3-031-54712-6_21'
+abstract: In this paper we present a tool for adaptive process log generation and analysis of the correlation between KPI (Key Performance Indicator) values and changes in adaptive processes. The tool features a component called Next(Log) helping users to generate initial business process logs using any preferred method and subsequently allows them to adapt these logs based on their own defined rules while ensuring an intuitive and coherent user interface. The adapted logs are then used for log analysis with the ML.Log component, which employs machine learning techniques to find patterns of matching KPI values and adaptation injections in the logs. The tool therefore supports the research on the challenges imposed by the lack of sufficient amount of data from adaptive process logs and the open issues in identifying at what KPIs values changes are required and what kind of changes would have the best impact on the process performance at run time.
+---
